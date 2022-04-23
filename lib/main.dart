@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
             backgroundColor: Colors.green,
             pinned: true,
             // snap: true,
-            // floating: true,
+            floating: true,
             expandedHeight: 200.0,
             flexibleSpace: FlexibleSpaceBar(
               centerTitle: true,
