@@ -5,6 +5,9 @@ A new Flutter project.
 ## Design and Development
 I learn fancy scrolling with the implementation of the term Slivers in flutter,  Basically this is a UI of weather report created in flutter,  And all the temperatures and values is now set to be dynamically.
 
+## Skills and Experience
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+
 ## Example of WorkDone
 <div class="row">
 <img src="https://github.com/akaChandu/weather-UI-with-sliver/blob/master/Screenshot_1650734274.png" width="250" >
